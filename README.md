@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo_k.png" alt="Keraunos Logo" width="120" />
+<img src="./public/logo_k.png" alt="Keraunos Logo" width="120" />
 
 # ⚡ KERAUNOS
 ### Interactive Canvas Reveal Experience
@@ -20,7 +20,7 @@ A high-end, immersive landing experience blending modern web aesthetics with a c
 ## 🖼️ Preview
 
 <div align="center">
-  <img src="./preview_k.png" alt="Keraunos Preview" width="100%" />
+  <img src="./public/preview_k.png" alt="Keraunos Preview" width="100%" />
 </div>
 
 🔗 **Live Link:** [keraunos.ai.studio](https://keraunos.ai.studio/)

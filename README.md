@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="./public/logo_k.png" alt="Keraunos Logo" width="420" />
+<img src="./public/logo_k.png" alt="SW!RLS" width="420">
 
-# ⚡ KERAUNOS
 ### Interactive Canvas Reveal Experience
 
 A high-end, immersive landing experience blending modern web aesthetics with a custom dual-layer mouse spotlight reveal effect.

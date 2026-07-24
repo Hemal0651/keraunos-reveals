@@ -1,0 +1,6 @@
+{
+  "name": "Keraunos",
+  "description": "Forged in Myth. High-fashion conceptual apparel website styled around Greek mythology, stillness, and power, inspired by classical marble sculpture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

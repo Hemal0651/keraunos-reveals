@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./public/logo_k.png" alt="Keraunos Logo" width="120" />
+<img src="./public/logo_k.png" alt="Keraunos Logo" width="420" />
 
 # ⚡ KERAUNOS
 ### Interactive Canvas Reveal Experience
